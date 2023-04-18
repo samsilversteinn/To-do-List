@@ -91,4 +91,8 @@ input{
     background-color: gray;
     color: white;
 }
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(168, 168, 168);
+}
 
